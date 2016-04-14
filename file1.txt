@@ -1,1 +1,2 @@
-Primeiro par grafo de File1 
+Primeiro paragrafo do file1
+Segundo paragrafo adicionado.
