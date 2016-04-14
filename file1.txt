@@ -1,3 +1,4 @@
 Primeiro paragrafo do file1
 Segundo paragrafo adicionado.
 Esta linha foi adicionada através do github.
+Agora vamos testar o fetch. Linha adicionada através do github.
